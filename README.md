@@ -1,2 +1,2 @@
 # myfirstwebsite
-/html/homepage.html
+https://eusuf7070.github.io/myfirstwebsite/
